@@ -1,0 +1,2 @@
+include ':app', ':arkatoast'
+rootProject.name='ArkaLog'
